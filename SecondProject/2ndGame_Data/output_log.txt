@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6370M (ID=0x68e4)
+    Vendor:   ATI
+    VRAM:     1016 MB
+    Driver:   8.840.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\projects\SecondProject\2ndGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\projects\SecondProject\2ndGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\projects\SecondProject\2ndGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.146145 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1320 -> priority: 1 
